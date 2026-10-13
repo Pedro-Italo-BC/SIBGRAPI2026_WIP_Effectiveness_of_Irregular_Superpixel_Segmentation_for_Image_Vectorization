@@ -1,4 +1,0 @@
-target_superpixels,count,mean_effective_superpixels,min_effective_superpixels,max_effective_superpixels
-500,1000,373.137000,26.000000,520.000000
-2000,1000,1640.158000,141.000000,2142.000000
-4000,1000,3568.769000,485.000000,4642.000000

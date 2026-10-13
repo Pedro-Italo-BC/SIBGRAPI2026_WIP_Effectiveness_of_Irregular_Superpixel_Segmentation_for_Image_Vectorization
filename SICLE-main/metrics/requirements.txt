@@ -1,7 +1,0 @@
-numpy
-Pillow
-CairoSVG
-scikit-image
-torch
-torchvision
-lpips

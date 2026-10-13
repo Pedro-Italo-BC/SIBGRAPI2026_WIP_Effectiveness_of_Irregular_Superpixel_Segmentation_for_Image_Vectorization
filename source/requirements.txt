@@ -1,0 +1,9 @@
+numpy
+Pillow
+CairoSVG
+scikit-image
+torch
+torchvision
+lpips
+Cython
+opencv-contrib-python
