@@ -9,12 +9,12 @@ This project is powered by SICLE and SLIC superpixel segmentation methods.
 
 # Authors & Contact
 
-- Pedro Italo Borges Cardoso - Pontifícia Universidade de Minas Gerais
+- Pedro Italo Borges Cardoso - Pontifícia Universidade Católica de Minas Gerais
 
   Email: pedroitalobc@gmail.com
   Linkedin: https://www.linkedin.com/in/pedro-italo-borges-cardoso-1b2959238/
 
-- Felipe de Castro Belém - Pontifícia Universidade de Minas Gerais
+- Felipe de Castro Belém - Pontifícia Universidade Católica de Minas Gerais
 
     Email: felipebelem@pucminas.br
 
